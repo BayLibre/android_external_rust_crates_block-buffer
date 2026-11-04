@@ -1,0 +1,28 @@
+name: "block-buffer"
+description: "Buffer type for block processing of data"
+third_party {
+  version: "0.10.4"
+  license_type: NOTICE
+  last_upgrade_date {
+    year: 2026
+    month: 11
+    day: 4
+  }
+  homepage: "https://crates.io/crates/block-buffer"
+  identifier {
+    type: "crates.io"
+    value: "block-buffer"
+    version: "0.10.4"
+    primary_source: true
+  }
+  identifier {
+    type: "Archive"
+    value: "https://static.crates.io/crates/block-buffer/block-buffer-0.10.4.crate"
+    version: "0.10.4"
+  }
+  identifier {
+    type: "Git"
+    value: "https://github.com/RustCrypto/utils"
+    version: "6d35952d3d3b124bc1049ad6fb406b42b1ce4bfe"
+  }
+}
